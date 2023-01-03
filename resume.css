@@ -328,6 +328,6 @@
 
  @media (max-width: 600px) {
     .icon-image {
-        height: 100%
+        width: 100%;
     }
   }
