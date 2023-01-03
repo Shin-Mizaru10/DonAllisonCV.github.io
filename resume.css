@@ -332,3 +332,9 @@
       flex-wrap: wrap;
     }
   }
+
+ @media (max-width: 600px) {
+    .icon-image {
+        witdh: 100%
+    }
+  }
