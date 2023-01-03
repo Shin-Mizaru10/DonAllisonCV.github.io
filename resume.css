@@ -328,6 +328,7 @@
  @media (max-width: 600px) {
     .skill-list {
       display: flex;
+        flex-direction: column;
       flex-wrap: wrap;
     }
   }
