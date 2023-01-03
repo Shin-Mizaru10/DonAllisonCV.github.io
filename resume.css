@@ -328,6 +328,12 @@
 
  @media (max-width: 600px) {
     .icon-image {
+        height: 300px;
+    }
+  }
+
+ @media (max-width: 350px) {
+    .icon-image {
         width: 100%;
     }
   }
