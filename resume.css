@@ -235,7 +235,7 @@
   .social-media-paragraph {
     font-size: 1.4rem;
   }
-
+/* 
   @media (max-width: 600px) {
     .hero-section {
     height: 100%;
@@ -315,5 +315,12 @@
   @media (max-width: 600px) {
     .online-courses-paragraph:last-child  {
     margin-bottom: 40px;
+    }
+  } */
+
+  @media (max-width: 600px) {
+    .container {
+      display: flex;
+      flex-wrap: wrap;
     }
   }
