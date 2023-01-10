@@ -252,6 +252,7 @@
 
   .social-media-paragraph {
     font-size: 1.4rem;
+    text-align: cemter;
   }
  
   @media (max-width: 600px) {
