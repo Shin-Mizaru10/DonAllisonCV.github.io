@@ -306,6 +306,12 @@
     }
   }
 
+ @media (max-width: 600px) {
+    .main-heading {
+    text-align: center;
+    }
+  }
+
   @media (max-width: 600px) {
     .main-paragraph:last-child {
     margin-bottom: 40px;
