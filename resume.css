@@ -307,7 +307,7 @@
   }
 
  @media (max-width: 600px) {
-    .main-heading
+    .main-heading,
     .main-secondary {
     text-align: center;
     }
