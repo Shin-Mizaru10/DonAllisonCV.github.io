@@ -46,10 +46,6 @@
 }
 
 .main-heading {
-   font-size: 6rem;
-}
-
-.main-heading {
     animation-name: moveInLeft;
   animation-duration: 1s;
 
@@ -75,10 +71,6 @@
       transform: translate(0);
     }
   }
-
-   .main-secondary {
-    font-size: 8rem;
-    }
 
   .main-secondary {
     animation-name: moveInRight;
@@ -108,7 +100,7 @@
   }
 
   .main-paragraph {
-    font-size: 20px;
+    font-size: 2rem;
     color: black;
 
     animation-name: moveInFromTop;
