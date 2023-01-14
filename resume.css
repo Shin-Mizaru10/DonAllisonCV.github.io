@@ -46,6 +46,14 @@
 }
 
 .main-heading {
+    font-weight:700;
+}
+
+.main-secondary {
+    font-weight: 500;
+}
+
+.main-heading {
     animation-name: moveInLeft;
   animation-duration: 1s;
 
