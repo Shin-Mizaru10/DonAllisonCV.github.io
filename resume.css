@@ -145,7 +145,7 @@
   }
 
   .skill-icon {
-    box-shadow: 0 2rem 2rem rgba(0, 0, 0, 0.20);
+    box-shadow: 1rem 2rem 2rem rgba(0, 0, 0, 0.20);
         border-radius: 11px;
         overflow: hidden;
         transition: all 0.4s;
@@ -153,7 +153,7 @@
 
   .skill-icon:hover {
     transform: translateY(-0.5rem);
-    box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
+    box-shadow: 1rem 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
   }
 
   .icon-paragraph {
