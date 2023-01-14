@@ -145,7 +145,7 @@
   }
 
   .skill-icon {
-    box-shadow: 1rem 1rem 1rem 1rem rgba(0, 0, 0, 0.20);
+    box-shadow: 1rem 1rem 1rem 1rem rgba(0, 0, 0, 0.18);
         border-radius: 11px;
         overflow: hidden;
         transition: all 0.4s;
