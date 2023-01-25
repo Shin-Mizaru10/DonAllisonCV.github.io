@@ -189,7 +189,11 @@
     margin-left: 10px;
     font-size: 2rem;
 
-    margin-bottom: 80px;
+    margin-bottom: 2rem;
+  }
+
+  .summary-paragraph:last-child {
+    margin-bottom: 8rem;
   }
 
   .education-paragraph {
